@@ -18,7 +18,7 @@
 
 7. [7_Pandas,_matplotlib.ipynb](7_Pandas,_matplotlib.ipynb)
 
-8. [8_Data_전처리,_MLP_의사결정트리_K_NN,Means (1).ipynb](8_Data_전처리,_MLP_의사결정트리_K_NN,Means (1).ipynb)
+8. [8_Data_전처리,_MLP_의사결정트리_K_NN,Means.ipynb](8_Data_전처리,_MLP_의사결정트리_K_NN,Means.ipynb)
 
 9. [9_Pytorch_기초.ipynb](9_Pytorch_기초.ipynb)
 
