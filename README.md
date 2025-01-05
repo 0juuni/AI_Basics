@@ -23,6 +23,7 @@
 9. [9_Pytorch_기초.ipynb](9_Pytorch_기초.ipynb)
 
 10. [10_GAN.ipynb](10_GAN.ipynb)
+사진 오류로 미리보기 X 
 
 11. [11_최종_복습.ipynb](11_최종_복습.ipynb)
 
